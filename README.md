@@ -166,9 +166,16 @@ Conducting exploratory data analysis is essential to address the project's liste
 2. Which product lines have the highest and lowest average rating?
 
 
+
+---------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+
+
 ***
 
-## Walmart Sales Insights Analysis By POWER BI
+## Walmart Sales Insights Analysis By Power BI
+
+Dashboard Link : https://app.powerbi.com/groups/me/reports/d2bbe380-e01b-448a-baad-0b8426e77764/ReportSection?experience=power-bi
 
 ### Overview
 This dashboard gives an intarective visualizaton with important insights.
