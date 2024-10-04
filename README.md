@@ -35,7 +35,7 @@ The data contains 14 columns and 1000 rows:
 ***
 
 
-### *** 2.	Feature Engineering***
+### *** 2.	Feature Adding ***
 
 This will help use generate some new columns from existing ones.
 - Add a new column named time_of_day to give insight of sales in the Morning, Afternoon and Evening. This will help answer the question on which part of the day most sales are made.
