@@ -164,3 +164,46 @@ Conducting exploratory data analysis is essential to address the project's liste
 1. What is the distribution of rating values across all products?
 
 2. Which product lines have the highest and lowest average rating?
+
+
+***
+
+## Walmart Sales Insights Analysis By POWER BI
+
+### Overview
+This dashboard gives an intarective visualizaton with important insights.
+By this a decision maker could take his business decision.
+
+### objective 
+The primary goals of this project is to help decision maker to take his
+decision based on business evulations patterns which can easily make from
+dashboard presentation. 
+
+### Dashboard Insights
+
+- Key Performance Indicators (KPIs): 
+  Total Revenue, Total Quantity,Total vat, Total rating
+- Sum of revenue by city
+- Sum of revenue by Product_line
+- Sum of revenue by payment 
+- Sum of revenue by customer_type and gender
+- Sum of revenue by day
+- Sum of revenue by day and customer_type( comparison between customer_type)
+- Filter options for deep drives.
+- Male and female separate view.
+
+### Findings
+
+- Total Revenue, Total Quantity,Total vat, Total rating (Based on gender)
+- Most buying product by male is 'Heath and beauty' following by 'Electronic accessories' , 'Sports and travel', 'Fashion accessories', 'Home and lifestyle'
+  'Food and beverages'. Most buying product by Female is 'Food and beverages' following by 'Fashion accessories','Home and lifestyle','Sports and travel',
+   'Electronic accessories', 'Heath and beauty'
+- Top payment gateway is cash(34.74%) following by Ewallet(34.06) and Credit card(31.2%)
+- Sum of revenue for Normal customer (Female = 80K and Male= 79K) and Sum of revenue for Member customer (Female = 88K and Male = 76k )
+- Comparison of revenue beetwen Cutomer_type (Normal and Member) regarding day
+
+
+## Conclusion
+  
+
+
