@@ -176,6 +176,14 @@ Conducting exploratory data analysis is essential to address the project's liste
 ## Walmart Sales Insights Analysis By Power BI
 
 Dashboard Link : https://app.powerbi.com/groups/me/reports/d2bbe380-e01b-448a-baad-0b8426e77764/ReportSection?experience=power-bi
+### Dashboard view 
+
+
+![Screenshot_5-10-2024_173212_app powerbi com](https://github.com/user-attachments/assets/50e27c8d-db3d-4188-bdba-55135fb8bf38)
+![Screenshot_5-10-2024_173624_app powerbi com](https://github.com/user-attachments/assets/a8836c40-587a-4dcc-b6ab-a388c0497e57)
+![Screenshot_5-10-2024_173439_app powerbi com](https://github.com/user-attachments/assets/c95d853b-3db5-4316-bb7e-42cbd05e12d4)
+![Screenshot_5-10-2024_173340_app powerbi com](https://github.com/user-attachments/assets/318c3e32-c833-4ff5-8338-9bc151de5f29)
+
 
 ### Overview
 This dashboard gives an intarective visualizaton with important insights.
